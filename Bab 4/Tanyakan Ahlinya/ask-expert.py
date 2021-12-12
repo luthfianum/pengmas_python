@@ -1,14 +1,14 @@
 from tkinter import Tk, simpledialog, messagebox
 
 def read_from_file():
-  with open('capital_data.txt') as file:
+  with open('./Bab 4/Tanyakan Ahlinya/capital_data.txt') as file:
     for line in file:
       line = line.rstrip('\n')
       country, city = line.split('/')
       the_world[country] = city
 
 def write_to_file(country_name, city_name):
-  with open('capital_data.txt', 'a') as file:
+  with open('./Bab 4/Tanyakan Ahlinya/capital_data.txt', 'a') as file:
     file.write('\n' + country_name + '/' + city_name)
 print('Tanyakan ahlinya - Ibukota Negara')
 root = Tk()
