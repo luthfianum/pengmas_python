@@ -5,33 +5,27 @@ Source code untuk kegiatan pengabdian masyarakat dengan mengajarkan siswa SMA me
 
 ## Directory Structure
     .
-    ├── Bab 1
     ├── Bab 2 
-    │   ├── variable
-    │   ├── decision making
-    │   ├── loopy loop
     │   ├── animal quiz
-    │   ├── function
-    │   ├── fixing bug
     │   ├── password picker
-    │   ├── modules
     │   └── nine lives
     ├── Bab 3 
     │   ├── robot builder
-    │   ├── kaleido spiral
-    │   ├── stary night
+    │   ├── Kaleido-spiral
+    │   ├── starry night
     │   └── mutant rainbow
     ├── Bab 4 
-    │   ├── countdown calendar
-    │   ├── ask the expert
+    │   ├── Kalender Hitung Mundur
+    │   ├── Tanyakan Ahlinya
     │   ├── secret message
     │   └── screen pet
     ├── Bab 5 
     │   ├── caterpillar
     │   ├── snap
-    │   ├── match maker
-    │   └── egg catcher   
+    │   ├── Matchmaker
+    │   └── EggCatcher   
     └── readme.md
+
 ## Authors
 
 - [@aidityasadhakim](https://github.com/AidityasAdhakim)
